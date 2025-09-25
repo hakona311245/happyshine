@@ -111,6 +111,10 @@ section.bg-gray {
   object-fit: cover;  
 }
 
+.teahcer-img{
+  height: 500px;        /* chỉnh theo ý bạn */
+  object-fit: cover;    /* cắt ảnh cho đầy khung mà không méo */
+}
 /* Button style */
 .btn {
   font-size: 16px;
